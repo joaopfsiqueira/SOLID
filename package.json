@@ -1,0 +1,17 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "Practing SOLID",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run index.ts"
+  },
+  "keywords": [
+    "SOLID"
+  ],
+  "author": "João Siqueira",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
